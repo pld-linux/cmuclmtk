@@ -3,7 +3,6 @@
 %bcond_without	perl		# perl package
 %bcond_without	static_libs	# static library
 #
-%{?with_perl:%include	/usr/lib/rpm/macros.perl}
 Summary:	CMU-Cambridge Language Modeling Toolkit
 Summary(pl.UTF-8):	CMU-Cambridge Language Modeling Toolkit - narzędzia do tworzenia modeli językowych
 Name:		cmuclmtk
