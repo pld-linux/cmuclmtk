@@ -7,7 +7,7 @@ Summary:	CMU-Cambridge Language Modeling Toolkit
 Summary(pl.UTF-8):	CMU-Cambridge Language Modeling Toolkit - narzędzia do tworzenia modeli językowych
 Name:		cmuclmtk
 Version:	0.7
-Release:	2
+Release:	3
 License:	BSD, parts for research only
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/cmusphinx/%{name}-%{version}.tar.gz
